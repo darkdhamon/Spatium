@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spatium API", "Spatium API\Spatium API.csproj", "{01083533-FFD5-4B98-8EAB-F03D10EA73ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01083533-FFD5-4B98-8EAB-F03D10EA73ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01083533-FFD5-4B98-8EAB-F03D10EA73ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01083533-FFD5-4B98-8EAB-F03D10EA73ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01083533-FFD5-4B98-8EAB-F03D10EA73ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6683EDE8-15D2-414B-A514-DD3B3ADD5FCB}
+	EndGlobalSection
+EndGlobal
