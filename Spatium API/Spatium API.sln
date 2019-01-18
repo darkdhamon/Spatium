@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spatium API", "Spatium API\Spatium API.csproj", "{01083533-FFD5-4B98-8EAB-F03D10EA73ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spatium_Model", "Spatium Model\Spatium_Model.csproj", "{DB0DAC31-6988-4D27-A6D1-DA300CCEFF80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{01083533-FFD5-4B98-8EAB-F03D10EA73ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01083533-FFD5-4B98-8EAB-F03D10EA73ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01083533-FFD5-4B98-8EAB-F03D10EA73ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB0DAC31-6988-4D27-A6D1-DA300CCEFF80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB0DAC31-6988-4D27-A6D1-DA300CCEFF80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB0DAC31-6988-4D27-A6D1-DA300CCEFF80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB0DAC31-6988-4D27-A6D1-DA300CCEFF80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
